@@ -10,7 +10,9 @@ Contains:
 # 1. Story Extender
 • Implemented a Recurrent Neural Network from scratch in numpy that can read in a sequence of words
   and then generate words in that style, the architecture uses a single hidden layer with tanh activations
+
 • Implemented the backpropagation with Adagrad as the optimization technique from scratch in numpy
+
 • Cross-entropy was implemented as the loss function and the model predicts the next words char by char
 
 This code was inspired from the youtube series "The Math of Intelligence" by Siraj Raval.
